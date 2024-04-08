@@ -1,0 +1,9 @@
+.customcard{
+ 
+   /* background-image: url('../images/background-img-idea-card.png'); */
+   background-color: rgb(164, 228, 242);
+  }
+  body{
+    background-image: url('../images/background-img-idea-card.png');
+    
+  }
